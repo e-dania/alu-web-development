@@ -2,3 +2,6 @@ header{
     flex: auto;
     flex-direction: row;
 }
+#banner{
+    background-image: "background.png";
+}
