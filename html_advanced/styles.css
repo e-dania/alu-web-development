@@ -1,7 +1,9 @@
 header{
     flex: auto;
     flex-direction: row;
+    background-image: "background.png";
 }
 #banner{
+    background-color: aliceblue;
     background-image: "background.png";
 }
