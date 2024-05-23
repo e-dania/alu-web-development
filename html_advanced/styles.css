@@ -5,7 +5,6 @@ header{
     display: flex;
     flex-direction: row;
     width: 100%;
-    padding: 11%;
 }
 #hlinks{
     align-self: flex-end;
