@@ -1,6 +1,5 @@
 body{
-    padding: 0%;
-    margin: 0%;
+    margin: 0%;''
 }
 header{
     
@@ -9,4 +8,6 @@ header{
 }
 #background{
     background-image: url("background.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
